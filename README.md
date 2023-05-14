@@ -23,6 +23,14 @@ I am passionate about protecting people and businesses from cyber attacks. I am 
 - <b>Create a Vulnerability Management Lab </b>
   - [Create a Vulnerability Management Lab](https:)
 
+<h2>Certification:</h2>
+
+- <b>CompTIA Security+ </b>
+  - [CompTIA Security+](https://www.linkedin.com/posts/osamah-hasan_im-happy-to-share-that-ive-obtained-a-new-activity-7063607685929209856-SSEF?utm_source=share&utm_medium=member_desktop)
+- <b>AWS Certified Cloud Practitioner </b>
+  - [AWS Certified Cloud Practitioner](https://www.linkedin.com/posts/osamah-hasan_aws-cloud-amazon-activity-7043251433739063296-dOa-?utm_source=share&utm_medium=member_desktop)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Osamah Hasan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
