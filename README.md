@@ -23,6 +23,11 @@ I am passionate about protecting people and businesses from cyber attacks. I am 
 - <b>Create a Vulnerability Management Lab </b>
   - [Create a Vulnerability Management Lab](https:)
 
+<h2>👨‍💻 Cloud Projects:</h2>
+
+- <b>AWS Multi-regions storage project </b>
+  - [AWS Multi-regions storage project](https:)
+  - 
 <h2>Certification:</h2>
 
 - <b>CompTIA Security+ </b>
