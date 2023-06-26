@@ -1,4 +1,4 @@
-<h1>Hi, I'm Osamah! <br/><a href="https://github.com/MrOsamaHasan">TechOps</a>, <a href="https://www.linkedin.com/in/osamah-hasan/">Cybersecurity Professional</a></h1>
+![image](https://github.com/MrOsamaHasan/MrOsamaHasan/assets/111244367/68989ed0-bac6-45fb-b0c9-d268f58e2efd)<h1>Hi, I'm Osamah! <br/><a href="https://github.com/MrOsamaHasan">TechOps</a>, <a href="https://www.linkedin.com/in/osamah-hasan/">Cybersecurity Professional</a></h1>
 
 <section id="about me">
       <h3>About</h3>
@@ -34,7 +34,10 @@ I am passionate about protecting people and businesses from cyber attacks. I am 
   - [CompTIA Security+](https://www.linkedin.com/posts/osamah-hasan_im-happy-to-share-that-ive-obtained-a-new-activity-7063607685929209856-SSEF?utm_source=share&utm_medium=member_desktop)
 - <b>AWS Certified Cloud Practitioner </b>
   - [AWS Certified Cloud Practitioner](https://www.linkedin.com/posts/osamah-hasan_aws-cloud-amazon-activity-7043251433739063296-dOa-?utm_source=share&utm_medium=member_desktop)
-
+  - <b>Microsoft Certified, Azure Fundamentals </b>
+  - [Microsoft Certified, Azure Fundamentals ](https://www.linkedin.com/posts/osamah-hasan_azure-cloudsecurity-cloudengineer-activity-7073368127320834048-JHze?utm_source=share&utm_medium=member_desktop)
+- <b>Fortinet, NSE 2 Network Security Associate </b>
+  - [Fortinet, NSE 2 Network Security Associate](https://www.linkedin.com/posts/osamah-hasan_fortinet-cyberdefense-cyberawareness-activity-7075401115588038656-YpOg?utm_source=share&utm_medium=member_desktop)
 
 <h2> 🤳 Connect with me:</h2>
 
