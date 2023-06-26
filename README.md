@@ -1,4 +1,4 @@
-![image](https://github.com/MrOsamaHasan/MrOsamaHasan/assets/111244367/68989ed0-bac6-45fb-b0c9-d268f58e2efd)<h1>Hi, I'm Osamah! <br/><a href="https://github.com/MrOsamaHasan">TechOps</a>, <a href="https://www.linkedin.com/in/osamah-hasan/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Osamah! <br/><a href="https://github.com/MrOsamaHasan">DevSecOps</a>, <a href="https://www.linkedin.com/in/osamah-hasan/"> Cloud and Cybersecurity Professional</a></h1>
 
 <section id="about me">
       <h3>About</h3>
