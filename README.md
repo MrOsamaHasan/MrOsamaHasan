@@ -34,7 +34,7 @@ I am passionate about protecting people and businesses from cyber attacks. I am 
   - [CompTIA Security+](https://www.linkedin.com/posts/osamah-hasan_im-happy-to-share-that-ive-obtained-a-new-activity-7063607685929209856-SSEF?utm_source=share&utm_medium=member_desktop)
 - <b>AWS Certified Cloud Practitioner </b>
   - [AWS Certified Cloud Practitioner](https://www.linkedin.com/posts/osamah-hasan_aws-cloud-amazon-activity-7043251433739063296-dOa-?utm_source=share&utm_medium=member_desktop)
-  - <b>Microsoft Certified, Azure Fundamentals </b>
+- <b>Microsoft Certified, Azure Fundamentals </b>
   - [Microsoft Certified, Azure Fundamentals ](https://www.linkedin.com/posts/osamah-hasan_azure-cloudsecurity-cloudengineer-activity-7073368127320834048-JHze?utm_source=share&utm_medium=member_desktop)
 - <b>Fortinet, NSE 2 Network Security Associate </b>
   - [Fortinet, NSE 2 Network Security Associate](https://www.linkedin.com/posts/osamah-hasan_fortinet-cyberdefense-cyberawareness-activity-7075401115588038656-YpOg?utm_source=share&utm_medium=member_desktop)
